@@ -44,6 +44,7 @@ The selected model is **Logistic Regression**.
 | Churn Precision | 62% |
 | Churn Recall | 51% |
 | Churn F1-score | 56% |
+
 The model provides a churn probability for each customer based on the supplied information.
 
 ## 💻 Application Features
@@ -71,8 +72,6 @@ Customer-Churn-Prediction/
 │
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
-│   ├── logistic_model.pkl
-│   └── scaler.pkl
 │
 ├── src/
 │   └── preprocessing.py
